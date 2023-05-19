@@ -6,7 +6,7 @@ All notebooks collected from the (currently) free course [ChatGPT Prompt Enginee
 
 1. Guidelines for Prompting
     - [ChatGPT Notebook 1](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook1.ipynb)
-2. Iterative
+2. Iterative Prompt Develelopment
     - [ChatGPT Notebook 2](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook2.ipynb)
 3. Summarizing
     - [ChatGPT Notebook 3](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook3.ipynb)
@@ -16,5 +16,5 @@ All notebooks collected from the (currently) free course [ChatGPT Prompt Enginee
     - [ChatGPT Notebook 5](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook5.ipynb)
 6. Expanding
     - [ChatGPT Notebook 6](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook6.ipynb)
-7. Chatbot
+7. The Chat Format
     - [ChatGPT Notebook 7](https://github.com/ginny100/ChatGPT-Prompt-Engineering-for-Developers/blob/master/ChatGPT-Notebook7.ipynb)
